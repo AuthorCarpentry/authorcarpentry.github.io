@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Author Carpentry</title>
+    <link rel="stylesheet" href="/css/site.css">
+</head>
+<body>
+<header>
+<a href="http://gothub.com/AuthorCarpentry"><img src="AClogo.jpg" alt="Author Carpentry logo"></a>
+</header>
+<nav>
+<ul>
+<li><a href="./">Author Carpentry</a></li>
+<li><a href="contributing.html">Contribute</a></li>
+<li><a href="How-to-build-this-website.html">How to build this website</a></li>
+</ul>
+
+</nav>
+
+<section>
+<h1>Description of files and organization</h1>
+
+<ul>
+<li>*.tmpl are <a href="https://caltechlibrary.github.io/mkpage">mkpage</a> templates for render markdown content into specific HTML pages</li>
+<li>*.bash are scripts for managing website</li>
+<li>*.md are our markdown files</li>
+<li>css/* holds our website css files (lesssons or subfolder may have their own css associated with them)</li>
+<li>assets/* holds any media assets like image files, logos and such used in the website</li>
+<li>js/* holds any sitewide JavaScripts files</li>
+</ul>
+
+<h2>special handling</h2>
+
+<p>The following files have a special handline</p>
+
+<ul>
+<li><em>README.md</em> becomes <em>index.html</em></li>
+<li><em>nav.md</em> never renders its own html file as it is included by the mkpage template</li>
+</ul>
+
+</section>
+
+<footer>
+<span>&copy; 2017 <a href="http://library.caltech.edu/CLS_Copyright.htm">Caltech Library</a></span>
+<address>1200 E California Blvd, Mail Code 1-32, Pasadena, CA 91125-3200</address>
+<span><a href="mailto:library@caltech.edu">Email Us</a></span> 
+<span>Phone: <a href="tel:+1-626-395-3405">(626)395-3405</a></span>
+</footer>
+</body>
+</html>

@@ -82,7 +82,7 @@ or encourage others to do so.
 The maintainers are community volunteers,
 and have final say over what gets merged into the lesson.
 
-## Our 
+## Our Documentation
 
 [This documentation][example-site] explains how we format our lessons
 (and is itself an example of that formatting).

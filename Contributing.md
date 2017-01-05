@@ -94,7 +94,7 @@ the [discussion mailing list][discuss-list],
 which everyone is welcome to join.
 You can also [reach us by email][contact].
 
-[contact]: admin@software-carpentry.org
+[contact]: a@a.org
 [dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
 [dc-lessons]: http://datacarpentry.org/lessons/
 [dc-site]: http://datacarpentry.org/

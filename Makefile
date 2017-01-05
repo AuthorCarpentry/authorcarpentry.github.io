@@ -1,7 +1,7 @@
 #
 # Simple Makefile for generate website with shorthand and md2slides
 #
-build: *.md CODATA-RDA/*.md
+build: *.md
 	./mk-website.bash
 
 save:

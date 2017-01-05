@@ -7,7 +7,7 @@ fixes to existing material,
 bug reports,
 and reviews of proposed changes are all equally welcome.
 By contributing,
-you agree that we may redistribute your work under [our license](LICENSE.md).
+you agree that we may redistribute your work under [our license](LICENSE).
 In exchange,
 we will address your issues,
 assess your change proposal,

@@ -7,7 +7,7 @@ fixes to existing material,
 bug reports,
 and reviews of proposed changes are all equally welcome.
 By contributing,
-you agree that we may redistribute your work under [our license](LICENSE.md).
+you agree that we may redistribute your work under [our license](LICENSE).
 In exchange,
 we will address your issues,
 assess your change proposal,
@@ -84,7 +84,7 @@ or encourage others to do so.
 The maintainers are community volunteers,
 and have final say over what gets merged into the lesson.
 
-## Our Template
+## Our 
 
 [This documentation][example-site] explains how we format our lessons
 (and is itself an example of that formatting).
@@ -101,7 +101,7 @@ You can also [reach us by email][contact].
 [dc-lessons]: http://datacarpentry.org/lessons/
 [dc-site]: http://datacarpentry.org/
 [discuss-list]: http://lists.software-carpentry.org/mailman/listinfo/discuss_lists.software-carpentry.org
-[example-site]: https://gvwilson.github.io/new-lesson-example/
+[example-site]: https://authorcarpentry.github.io/lesson-template/
 [github-flow]: https://guides.github.com/introduction/flow/
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 [issues]: https://github.com/swcarpentry/python-novice-gapminder/issues/

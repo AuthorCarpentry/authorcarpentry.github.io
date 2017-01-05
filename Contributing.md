@@ -34,8 +34,6 @@ so fresh eyes are always welcome.
 
 ## What We're *Not* Looking For
 
-Our lessons already contain more material than we can cover in a typical workshop,
-so we are usually *not* looking for more concepts or tools to add to them.
 As a rule,
 if you want to introduce a new idea,
 you must (a) estimate how long it will take to teach

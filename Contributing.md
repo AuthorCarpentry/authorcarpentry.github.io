@@ -106,5 +106,5 @@ You can also [reach us by email][contact].
 [repo]: https://github.com/swcarpentry/python-novice-gapminder/
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
-[swc-site]: http://software-ca
+[swc-site]: https://software-carpentry.org/
 [ac-site]: http://authorcarpentry.github.io

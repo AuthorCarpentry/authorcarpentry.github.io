@@ -1,6 +1,6 @@
 # Contributing
 
-[AuthorCarpentry][auc-site] is an open source project,
+[AuthorCarpentry][ac-site] is an open source project,
 and we welcome contributions of all kinds:
 new lessons,
 fixes to existing material,
@@ -12,7 +12,7 @@ In exchange,
 we will address your issues,
 assess your change proposal,
 and help you become a member of our community.
-Everyone involved in [Author Carpentry][swc-site] agrees to abide by
+Everyone involved in [Author Carpentry][ac-site] agrees to abide by
 our [code of conduct](CONDUCT.md).
 
 ## What We're Looking For
@@ -109,3 +109,4 @@ You can also [reach us by email][contact].
 [swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-site]: http://software-ca
+[ac-site]: http://authorcarpentry.github.io

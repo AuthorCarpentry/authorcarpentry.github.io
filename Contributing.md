@@ -13,7 +13,7 @@ we will address your issues,
 assess your change proposal,
 and help you become a member of our community.
 Everyone involved in [Author Carpentry][ac-site] agrees to abide by
-our [code of conduct](CONDUCT.md).
+our [code of conduct](CONDUCT).
 
 ## What We're Looking For
 

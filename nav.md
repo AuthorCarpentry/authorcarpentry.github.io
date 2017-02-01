@@ -1,5 +1,5 @@
 
-+ [Author Carpentry](./)
++ [Author Carpentry](/)
 + [About](/about/)
 + [Workshops](/workshops/)
 + [Get Involved](/get-involved/)

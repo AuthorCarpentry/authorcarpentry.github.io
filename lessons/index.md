@@ -5,8 +5,8 @@
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
 | ------ |:---: | :--------: | :--------------: | ------------- |
-| Persistent access for research outputs with Digital Object Identifiers | [http://authorcarpentry.github.io/dois-citation-data] | [/dois-citation-data] | | Gail Peretsman-Clement | 
-
+| Persistent access for research outputs with Digital Object Identifiers | [Site](http://authorcarpentry.github.io/dois-citation-data) | [Repo](/dois-citation-data) | | Gail Peretsman-Clement | 
+| Establishing Scholarly Identity with Online Research Contributor Identifiers (OrCiDs) | [Site](http://authorcarpentry.github.io/orcid-profile) | [Repo](/orcid-profile) | | Gail Peretsman-Clement | 
 
 ### Persistent access for research outputs with Digital Object Identifiers (dois-citation-data) (Gail)
 

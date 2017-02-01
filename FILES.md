@@ -12,6 +12,7 @@
 
 The following files have a special handline
 
-+ *README.md* becomes *index.html*
++ *README.md* becomes *index.html* in the root directory of the repository
+    + subdirectories require an explicit *index.md*
 + *nav.md* never renders its own html file as it is included by the mkpage template
 

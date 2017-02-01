@@ -13,8 +13,6 @@ This website is built using several command line tools developed at Caltech. The
 
 + [mkpage](https://caltechlibrary.github.io/mkpage) - renders the website from Markdown files using template page.tmpl
     + [installation instructions](https://caltechlibrary.github.io/mkpage/install.html)
-+ [md2slides](https://caltechlibrary.github.io/md2slides) - (optional) is a markdown to HTML slide converter
-    + [installation instructions](https://caltechlibrary.github.io/md2slides/install.html)
 + [ws](https://caltechlibrary.github.io/ws) - (optional) is a static web server you can use to view your site while you're writing it
     + [installation instructions](https://caltechlibrary.github.io/ws/install.html)
 

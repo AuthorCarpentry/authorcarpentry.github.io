@@ -1,5 +1,8 @@
 
 + [Author Carpentry](./)
-+ [Contribute](Contributing.html)
-+ [How to build this website](How-to-build-this-website.html)
++ [About](/about/)
++ [Workshops](/workshops/)
++ [Get Involved](/get-involved/)
++ [Lessons](/lessons/)
++ [For Instructors](/for-instructors/)
 

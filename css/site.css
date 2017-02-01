@@ -204,6 +204,17 @@ aside ul > ul {
      font-size: 0.72em;
 }
 
+table {
+     border-collapse: collapse;
+}
+
+table, th, td {
+     border: 1px solid black;
+     padding: 15 px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2}
+
 footer {
      position: relative;
      bottom: 0;

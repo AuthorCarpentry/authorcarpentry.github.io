@@ -217,7 +217,7 @@ thead {
      background-color: #a9a9a9;
 }
 
-tr:nth-child(even) {background-color: #f2f2f2}
+tr:nth-child(odd) {background-color: #f2f2f2}
 
 footer {
      position: relative;

@@ -216,7 +216,7 @@ table, th, td {
 tr:nth-child(odd) {background-color: #f2f2f2}
 
 thead {
-     background-color: #a9a9a9;
+     background: #a9a9a9;
 }
 
 footer {

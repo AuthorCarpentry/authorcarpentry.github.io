@@ -217,7 +217,7 @@ thead {
      background-color: #a9a9a9;
 }
 
-tbody:nth-child(even) {
+tr:nth-child(even) {
      background-color: #f2f2f2;
 }
 

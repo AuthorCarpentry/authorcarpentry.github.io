@@ -41,7 +41,7 @@
 [markdown-github-webpages2]: https://github.com/authorcarpentry/markdown-github-webpages
 [executable-documents-rstudio]: https://authorcarpentry.github.io/executable-documents-rstudio
 [executable-documents-rstudio2]: https://github.com/authorcarpentry/executable-documents-rstudio
-[zotero-wordpress]: https://authorcarpentry.github.io/zotero-wordpres
-[zotero-wordpress2]: https://github.com/authorcarpentry/zotero-wordpres
+[zotero-wordpress]: https://authorcarpentry.github.io/zotero-wordpress
+[zotero-wordpress2]: https://github.com/authorcarpentry/zotero-wordpress
 [reference-management]: https://authorcarpentry.github.io/reference-management
 [reference-management2]: https://github.com/authorcarpentry/reference-management

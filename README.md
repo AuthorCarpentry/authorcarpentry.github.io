@@ -1,4 +1,5 @@
 # Author Carpentry                
+https://doi.org/10.7907/Z96H4FFZ
 
 Welcome to the master repository for [Author Carpentry] (http://libguides.caltech.edu/authorcarpentry), a training and outreach program initiated at the Caltech Library to enhance scientific authorship and publishing in the digital age. The aim of Author Carpentry is to promote and support good information handling tools, practices, and skills that help researchers prepare, submit, and publish contributions that add value to the scholarly record and invite others to adapt and build upon. Ideally, that means contributions that fulfill not only the original Big Four of the scholarly record --
 

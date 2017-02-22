@@ -68,13 +68,11 @@ web browser to http://localhost:8000
 
 To ensure a consistent formatting of the lessons, we recommend the following
 guidelines:
-* No trailing white space
-* Wrap lines at 80 characters (unless it breaks URLs)
-* Use unclosed atx style headers (see below)
+
+- No trailing white space
+- Wrap lines at 80 characters (unless it breaks URLs)
 
 ## FAQ
 
-*   *Where can I get help?*
-
-    Mail us at
-[authorcarpentry@library.caltech.edu](mailto:authorcarpentry@library.caltech.edu)
+- *Where can I get help?*
+Mail us at [authorcarpentry@library.caltech.edu](mailto:authorcarpentry@library.caltech.edu)

@@ -1,3 +1,0 @@
-
-# Instructor training checkout
-

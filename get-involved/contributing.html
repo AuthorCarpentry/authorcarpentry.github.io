@@ -29,99 +29,81 @@ and we welcome contributions of all kinds:
 new lessons,
 fixes to existing material,
 bug reports,
-and reviews of proposed changes are all equally welcome.
-By contributing,
-you agree that we may redistribute your work under <a href="LICENSE">our license</a>.
+and reviews of proposed changes are all welcome.</p>
+
+<h2>Contributor Agreement</h2>
+
+<p>By contributing,
+you agree that we may redistribute your work under
+<a href="http://authorcarpentry.github.io/license">our license</a>.
 In exchange,
-we will address your issues,
-assess your change proposal,
+we will address your issues and/or assess your change proposal as promptly as
+we can,
 and help you become a member of our community.
-Everyone involved in <a href="http://authorcarpentry.github.io">Author Carpentry</a> agrees to abide by
-our <a href="CONDUCT">code of conduct</a>.</p>
+Everyone involved in <a href="http://authorcarpentry.github.io">Author Carpentry</a>
+agrees to abide by our <a href="http://authorcarpentry.github.io/about/code-of-conduct">code of
+conduct</a>.</p>
 
-<h2>What We&rsquo;re Looking For</h2>
-
-<p>There are many ways to contribute,
-from writing new exercises and improving existing ones
-to updating or filling in the documentation
-and and submitting <a href="https://github.com/swcarpentry/python-novice-gapminder/issues/">bug reports</a>
-about things that don&rsquo;t work, aren&rsquo;t clear, or are missing.
-If you are looking for ideas,
-please see <a href="https://github.com/swcarpentry/python-novice-gapminder/issues/">the list of issues for this repository</a>.</p>
-
-<p>Comments on issues and reviews of pull requests are just as welcome:
-we are smarter together than we are on our own.
-Reviews from novices and newcomers are particularly valuable:
-it&rsquo;s easy for people who have been using these lessons for a while
-to forget how impenetrable some of this material can be,
-so fresh eyes are always welcome.</p>
-
-<h2>What We&rsquo;re <em>Not</em> Looking For</h2>
-
-<p>As a rule,
-if you want to introduce a new idea,
-you must (a) estimate how long it will take to teach
-and (b) explain what you would take out to make room for it.
-The first encourages contributors to be honest about requirements;
-the second, to think hard about priorities.</p>
-
-<p>We are also not looking for exercises or other material that only run on one platform.
-Our workshops typically contain a mixture of Windows, Mac OS X, and Linux users;
-in order to be usable,
-our lessons must run equally well on all three.</p>
-
-<h2>Getting Started</h2>
-
-<p>The easiest way to get started is to file an issue
-to tell us about a spelling mistake,
-some awkward wording,
-or a factual error.
-This is a good way to introduce yourself
-and to meet some of our community members.</p>
-
-<p>If you want to start adding or fixing material yourself,
-you may want to look at
-<a href="https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github">How to Contribute to an Open Source Project on GitHub</a>.
-In brief:</p>
+<h2>Working With GitHub</h2>
 
 <ol>
-<li><p>The published copy of the lesson is in the <code>gh-pages</code> branch of the repository
-(so that GitHub will regenerate it automatically).
-Please create all branches from that,
-and merge the <a href="https://github.com/swcarpentry/python-novice-gapminder/">master repository</a>&rsquo;s <code>gh-pages</code> branch into your <code>gh-pages</code> branch
-before starting work.
-Please do <em>not</em> work directly in your <code>gh-pages</code> branch,
-since that will make it difficult for you to work on other contributions.</p></li>
+<li><p>Fork the <code>authorcarpentry/lesson-name</code> repository on GitHub.</p></li>
 
-<li><p>We use <a href="https://guides.github.com/introduction/flow/">GitHub flow</a> to manage changes:</p>
+<li><p>The default branch in our lessons is <code>gh-pages</code>. Create a
+new branch for your changes.<br />
+Give your branch a meaningful name,
+such as <code>fixing-typos-in-shell-lesson</code>
+or <code>adding-tutorial-on-visualization</code>.</p></li>
 
-<ol>
-<li>Create a new branch in your desktop copy of this repository for each significant change.</li>
-<li>Commit the change in that branch.</li>
-<li>Push that branch to your fork of this repository on GitHub.</li>
-<li>Submit a pull request from that branch to the <a href="https://github.com/swcarpentry/python-novice-gapminder/">master repository</a>.</li>
-<li>If you receive feedback,
-make changes on your desktop and push to your branch on GitHub:
-the pull request will update automatically.</li>
-</ol></li>
+<li><p>Clone this repository and branch to work with it on your computer.<br />
+git clone the repository with -b &lsquo;branch name&rsquo;</p></li>
+
+<li><p>Make your changes, render, commit them, and push them to your repository on GitHub.</p></li>
+
+<li><p>Send a pull request to the <code>gh-pages</code> branch of the main datacarpentry
+repository at <a href="http://github.com/authorcarpentry/lesson-name">http://github.com/authorcarpentry/lesson-name</a>. This can
+be done through the github web interface.</p></li>
 </ol>
 
-<p>Each lesson has one or more maintainers who review issues and pull requests
-or encourage others to do so.
-The maintainers are community volunteers,
-and have final say over what gets merged into the lesson.</p>
+<p>If it is easier for you to send them to us some other way,
+please mail us at
+<a href="mailto:authorcarpentry@library.caltech.edu">authorcarpentry@library.caltech.edu</a>.
+Given a choice between you creating content or wrestling with Git,
+we&rsquo;d rather have you doing the former.</p>
 
-<h2>Our Documentation</h2>
+<h2>Locations and Formats</h2>
 
-<p><a href="https://authorcarpentry.github.io/lesson-template/">This documentation</a> explains how we format our lessons
-(and is itself an example of that formatting).</p>
+<p>Every lesson has a repository of its own, while individual topics are files
+in that directory.  For example, the <code>shell-ecology</code> directory holding our
+introduction to the shell for ecology contains the files <code>00-intro.md</code>,
+<code>01-filedir.md</code> and so on.  (We use two digits followed by a one-word topic
+key to ensure files
+appear in the right order when listed.)</p>
 
-<h2>Other Resources</h2>
+<p>All lesson content is written in markdown.<br />
+We use <a href="https://github.com/caltechlibrary/mkpage">mkpage</a> to render lesson
+content, which should be done on your local machine.  You render content by
+typing &lsquo;./mk-website.bash&rsquo; once you&rsquo;re finishing making edits.</p>
 
-<p>General discussion of <a href="https://software-carpentry.org/">Software Carpentry</a> happens on
-the <a href="http://lists.software-carpentry.org/mailman/listinfo/discuss_lists.software-carpentry.org">discussion mailing list</a>,
-which everyone is welcome to join.
-You can also <a href="a@a.org">reach us by email</a>.</p>
+<p>You can use ws to view the content locally by typing &lsquo;ws&rsquo; and pointing your
+web browser to <a href="http://localhost:8000">http://localhost:8000</a></p>
+
+<h2>Formatting of the material</h2>
+
+<p>To ensure a consistent formatting of the lessons, we recommend the following
+guidelines:
+* No trailing white space
+* Wrap lines at 80 characters (unless it breaks URLs)
+* Use unclosed atx style headers (see below)</p>
+
+<h2>FAQ</h2>
+
+<ul>
+<li><p><em>Where can I get help?</em></p>
+
+<p>Mail us at
+<a href="mailto:authorcarpentry@library.caltech.edu">authorcarpentry@library.caltech.edu</a></p></li>
+</ul>
 
 </section>
 

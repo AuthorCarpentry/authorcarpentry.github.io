@@ -43,7 +43,12 @@ The Caltech Library is recasting its instructional program using a 'Carpentry' a
 * Open sharing of research using Creative Commons licenses, waivers, and public domain marks
 
 ## Get Involved
-AuthorCarpentry is an Open Project and we enthusiastically welcome contributions of librarian and other research professionals. Anyone with an interest in the material is welcome to take part. The project is being co-ordinated by [Gail Clement](gclement@library.caltech.edu) at Caltech Library. Please get in touch or register your ideas on the Issues section.
+AuthorCarpentry is an Open Project and we enthusiastically welcome
+contributions of librarian and other research professionals. Anyone with an
+interest in the material is welcome to take part. The project is being
+co-ordinated by [Gail Clement](gclement@library.caltech.edu) at Caltech
+Library. Please get in touch with us at
+[authorcarpentry@library.caltech.edu](authorcarpentry@library.caltech.edu)  or register your ideas on the Issues section.
 
 ## Code of Conduct
 All participants should agree to abide by the [Software Carpentry Code of Conduct](http://software-carpentry.org/conduct/).

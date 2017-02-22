@@ -74,5 +74,6 @@ guidelines:
 
 ## FAQ
 
-- *Where can I get help?*
+*Where can I get help?*
+
 Mail us at [authorcarpentry@library.caltech.edu](mailto:authorcarpentry@library.caltech.edu)

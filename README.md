@@ -17,7 +17,7 @@ Ideally, that means contributions that fulfill not only the original Big Four of
 
 **But also enable an essential fifth component of knowledge management in the digital age**:
 
-  5\. Replication, Reuse, and Remixing
+5. Replication, Reuse, and Remixing
 
 In conceiving of the Author Carpentry program, our hope is to advance production and curation of the *Research Paper of the Future*, crafted as a fully open, executable, reproducible, reusable contribution ready to be rendered, tested, mined, adapted, and built upon by humans and machines. We believe that research outputs belong to all and are of greatest use and impact when crafted as freely open, interoperable, and reuseable knowledge resources for humans and machines.
 
@@ -25,7 +25,7 @@ Author Carpentry lessons are agnostic to the mode of 'publication', recognizing 
 
 ## Connection between Author Carpentry and Software/Data Carpentry
 
-Author Carpentry is not an official Software/Data Carpentry project but it draws inspiration and encouragement from those sucessful communities that model  high impact instructional design, effective peer to peer teaching, and sensible assessment. We aim to build on the success of Software and Data Carpentry in promoting and teaching "good enough" skills for research information handling beyond software and code. SWC founder Greg Wilson's draft lesson [Modern Scientific Authoring] (http://swcarpentry.github.io/modern-scientific-authoring/01-mess.html) speaks to the need for training in writing, publishing, citation, and more. Discussions with members of the Carpentry and Research Data Alliance communities, and input from the June 2-3 2016 Mozilla Science Sprint, have confirmed broad interest in the lessons being designed for Author Carpentry and provided encouragement to develop pilot lessons for testing and implementation. 
+Author Carpentry is not an official Software/Data Carpentry project but it draws inspiration and encouragement from those sucessful communities that model  high impact instructional design, effective peer to peer teaching, and sensible assessment. We aim to build on the success of Software and Data Carpentry in promoting and teaching "good enough" skills for research information handling beyond software and code. SWC founder Greg Wilson's draft lesson [Modern Scientific Authoring] (http://swcarpentry.github.io/modern-scientific-authoring/) speaks to the need for training in writing, publishing, citation, and more. Discussions with members of the Carpentry and Research Data Alliance communities, and input from the June 2-3 2016 Mozilla Science Sprint, have confirmed broad interest in the lessons being designed for Author Carpentry and provided encouragement to develop pilot lessons for testing and implementation. 
 
 ## Why would Librarians be involved in Carpentry?
 

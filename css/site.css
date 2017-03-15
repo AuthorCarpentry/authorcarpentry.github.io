@@ -137,17 +137,12 @@ nav ul li {
 section {
      position: relative;
      display: inline-block;
-     width: 100%;
+     max-width: 97%;
      min-height: 84%;
      color: black;
      background-color: white;
      margin-left: 1em;
-     margin-bottom: 2em;
-     padding 0;
-}
-
-section p {
-    max-width: 97%;
+     margin-right: 2em;
 }
 
 section h1 {
@@ -162,7 +157,7 @@ section h2 {
 
 section h3 {
     font-size: 1.25em;
-    font-weight: 600;
+    text-transform: 600;
 }
 
 section ul {
@@ -216,7 +211,11 @@ table, th, td {
      padding: 1em;
 }
 
-tr:nth-child(odd) {background-color: #f2f2f2}
+tbody tr:nth-child(even) {background-color: #f2f2f2}
+
+thead {
+     background: #a9a9a9;
+}
 
 footer {
      position: relative;

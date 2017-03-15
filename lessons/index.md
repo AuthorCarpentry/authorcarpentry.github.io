@@ -1,14 +1,15 @@
 
 # Author Carpentry Lessons and Learning Objectives
 
-### Lessons in Active Development as of 15 March 2017 | See [Suggest a Lesson][https://github.com/AuthorCarpentry/planning/issues] for future lesson plans
+### Lessons in Active Development as of 15 March 2017 
+##### See [Suggest a Lesson](https://github.com/AuthorCarpentry/planning/issues) for future lesson plans
 
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
 | ------ |:---: | :--------: | :--------------: | ------------- |
 | Persistent access for research outputs with Digital Object Identifiers | [Site][dois-citation-data] | [Repo][dois-citation-data2] | | Gail Peretsman-Clement | 
 | Establishing Scholarly Identity with Online Research Contributor Identifiers (OrCiDs) | [Site][orcid-profile] | [Repo][orcid-profile2] | | Gail Peretsman-Clement | 
-| Measuring scholarly impact and reputation with ORCiD and ImpactStory | [Site][orcid-and-impact] | [Repo][orcid-and-impact2] | | Gail Peretsman-Clement |
+| Enhancing scholarly reputation with ORCiD and impact metrics| [Site][orcid-and-impact] | [Repo][orcid-and-impact2] | | Gail Peretsman-Clement |
 | Fair Attribution for Contributorship with Project Credit taxonomy |[Site][contributor-and-credit] | [Repo][contributor-and-credit2] | | Gail Peretsman-Clement |
 | Authoring LaTeX paper with BibTeX bibliography |[Site][latex-bibtex-authoring] | [Repo][latex-bibtex-authoring2] | | Gail Peretsman-Clement |
 | Open licensing with Creative Commons | [Site][licensing-cc] | [Repo][licensing-cc2] | | Gail Peretsman-Clement |

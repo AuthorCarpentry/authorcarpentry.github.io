@@ -5,6 +5,9 @@ Welcome to the master repository for Author Carpentry , a researcher-to-research
 
 AuthorCarpentry was initiated at the Caltech Library to enhance scientific authorship and publishing in the digital age. Its aim is to promote and support best practices in open science and research communication. AuthorCarpentry lessons cover tools, workflows, practices, and skills that help researchers prepare, submit, and publish contributions that add value to an open scholarly record and invite others to adapt and build upon their work. 
 
+
+
+
 Ideally, that means contributions that fulfill not only the original Big Four of the scholarly record --
 
 1. Registration
@@ -27,7 +30,7 @@ Author Carpentry lessons are agnostic to the mode of 'publication', recognizing 
 
 Author Carpentry is not an official Software/Data Carpentry project but it draws inspiration and encouragement from those sucessful communities that model  high impact instructional design, effective peer to peer teaching, and sensible assessment. We aim to build on the success of Software and Data Carpentry in promoting and teaching "good enough" skills for research information handling beyond software and code. SWC founder Greg Wilson's draft lesson [Modern Scientific Authoring] (http://swcarpentry.github.io/modern-scientific-authoring/) speaks to the need for training in writing, publishing, citation, and more. Discussions with members of the Carpentry and Research Data Alliance communities, and input from the June 2-3 2016 Mozilla Science Sprint, have confirmed broad interest in the lessons being designed for Author Carpentry and provided encouragement to develop pilot lessons for testing and implementation. 
 
-## Why would Librarians be involved in Carpentry?
+## Why would Librarians be involved in Author Carpentry?
 
 Research librarians have long shared expertise in authoring and publishing with our campus communities, and we have developed considerable expertise in knowledge management principles and practices; instruction and assessment; information ethics and law, responsible conduct of research; and research information systems. Moreover, we share a vision for equal and universal access to information and culture as a basic human right, enthusiastically promoting the goals of the Open Source, Open Science, and Open Access movements. 
 

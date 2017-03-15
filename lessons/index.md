@@ -1,7 +1,8 @@
 
 # Author Carpentry Lessons and Learning Objectives
 
-#### Draft 1.0 - Gail Clement and Sebastian Karcher- Last updated 24 Jan 2017
+### Lessons in Active Development as of 15 March 2017 | See [Suggest a Lesson][https://github.com/AuthorCarpentry/planning/issues] for future lesson plans
+
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
 | ------ |:---: | :--------: | :--------------: | ------------- |

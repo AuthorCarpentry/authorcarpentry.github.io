@@ -63,13 +63,13 @@ header a, header a:link, header a:visited, header a:active, header a:hover, head
 
 
 a, a:link, a:visited {
-     color: #76777B;
+     color: #FF6E1E;
      background-color: inherit;
      text-decoration: none;
 }
 
 a:active, a:hover, a:focus {
-    color: #FF6E1E;
+    color: #76777B;
     font-weight: bolder;
 }
 
@@ -105,7 +105,6 @@ nav a:hover, nav a:focus {
      text-decoration: none;
 }
 
-
 nav div h2 {
      position: relative;
      display: block;
@@ -137,12 +136,22 @@ nav ul li {
 section {
      position: relative;
      display: inline-block;
-     max-width: 97%;
+     width: 98%;
      min-height: 84%;
      color: black;
      background-color: white;
-     margin-left: 1em;
+     margin-left: 1vw;
+     margin-right: 1vw;
      margin-bottom: 2em;
+     padding 0;
+}
+
+section p {
+    width: 97%;
+}
+
+li {
+    margin-right: 1vw;
 }
 
 section h1 {
@@ -157,7 +166,7 @@ section h2 {
 
 section h3 {
     font-size: 1.25em;
-    text-transform: 600;
+    font-weight: 600;
 }
 
 section ul {
@@ -211,11 +220,7 @@ table, th, td {
      padding: 1em;
 }
 
-tbody tr:nth-child(even) {background-color: #f2f2f2}
-
-thead {
-     background: #a9a9a9;
-}
+tr:nth-child(odd) {background-color: #f2f2f2}
 
 footer {
      position: relative;

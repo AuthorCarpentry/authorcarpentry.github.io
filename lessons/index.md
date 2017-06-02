@@ -7,8 +7,8 @@
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
 | ------ |:---: | :--------: | :--------------: | ------------- |
-| Persistent access for research outputs with Digital Object Identifiers | [Site][dois-citation-data] | [Repo][dois-citation-data2] | | Gail Peretsman-Clement | 
-| Establishing Scholarly Identity with Online Research Contributor Identifiers (OrCiDs) | [Site][orcid-profile] | [Repo][orcid-profile2] | | Gail Peretsman-Clement | 
+| Persistent access for research outputs with Digital Object Identifiers | [Site][dois-citation-data] | [Repo][dois-citation-data2] | | Gail Peretsman-Clement, Tom Morrell | 
+| Establishing Scholarly Identity with Online Research Contributor Identifiers (OrCiDs) | [Site][orcid-profile] | [Repo][orcid-profile2] | | Gail Peretsman-Clement, Tom Morrell | 
 | Enhancing scholarly reputation with ORCiD and impact metrics| [Site][orcid-and-impact] | [Repo][orcid-and-impact2] | | Gail Peretsman-Clement |
 | Fair Attribution for Contributorship with Project Credit taxonomy |[Site][contributor-and-credit] | [Repo][contributor-and-credit2] | | Gail Peretsman-Clement |
 | Authoring LaTeX paper with BibTeX bibliography |[Site][latex-bibtex-authoring] | [Repo][latex-bibtex-authoring2] | | Gail Peretsman-Clement |

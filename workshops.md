@@ -1,0 +1,27 @@
+# About our workshops
+
+Author Carpentry can host workshops!  [Contact
+us](mailto:authorcarpentry@library.caltech.edu) for more information
+
+# Upcoming workshops
+
+| Workshop Name | Location | Dates | Registration Link | Instructor(s) |
+
+| Author Carpentry Workshop for Caltech faculty, students, and researchers | 
+Caltech Library, Multimedia Conference Rm | June 12, 2017 |
+[http://libcal.caltech.edu/event/3347086] (http://libcal.caltech.edu/event/3347086) | Karcher |
+
+| CODATA-RDA Research Data Science Summer School | Intl Centre for Theoretical Physics, Trieste, Italy | July 9-21, 2017 | 
+[http://indico.ictp.it/event/7974/other-view?view=ictptimetable] (http://indico.ictp.it/event/7974/other-view?view=ictptimetable) | Clement |
+
+| Force11 Scholarly Communication Institute | Univ California, San Diego, CA | July 31 - August 4, 2017 | 
+[http://www.force11.org/node/7786/#wt3] (http://www.force11.org/node/7786/#wt3) | Morrell, Clement, Karcher (lesson developer)
+# Past workshops
+
+| Workshop Name | Location | Dates | Link | Instructor(s) |
+
+
+| CODATA-RDA Research Data Science Summer School | Intl Centre for Theoretical Physics, Trieste, Italy | August 1-12, 2016|
+[http://indico.ictp.it/event/7658/other-view?view=ictptimetable] (http://indico.ictp.it/event/7658/other-view?view=ictptimetable)| Clement|
+
+| Thirtieth Conference on Artificial Intelligence Tutorial | San Francisco, CA | February 4, 2017 | [http://www.aaai.org/Conferences/AAAI/2017/aaai17tutorials.php#SA1] (http://www.aaai.org/Conferences/AAAI/2017/aaai17tutorials.php#SA1) | Garijo, Gil, Clement |

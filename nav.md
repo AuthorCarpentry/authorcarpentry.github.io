@@ -1,6 +1,6 @@
 
 + [Author Carpentry](/)
-+ [Workshops](/workshops/)
++ [Workshops](/workshops.html)
 + [Get Involved](/get-involved/)
 + [Lessons](/lessons/)
 + [Suggest a Lesson](https://github.com/AuthorCarpentry/planning/issues)

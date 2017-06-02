@@ -1,3 +1,0 @@
-
-# About our workshops
-

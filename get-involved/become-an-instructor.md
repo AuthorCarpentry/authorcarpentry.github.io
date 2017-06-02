@@ -1,3 +1,0 @@
-
-# Become an instructor
-

@@ -1,3 +1,0 @@
-
-# Past workshops
-

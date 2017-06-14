@@ -14,7 +14,7 @@
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
 | ------ |:---: | :--------: | :--------------: | ------------- |
-| Enhancing scholarly reputation with ORCiD and impact metrics| [Site][orcid-and-impact] | [Repo][orcid-and-impact2] | | Gail Peretsman-Clement |
+| Enhancing scholarly reputation with impact metrics| [Site][orcid-and-impact] | [Repo][orcid-and-impact2] | | Gail Peretsman-Clement |
 | Fair Attribution for Contributorship with Project Credit taxonomy |[Site][contributor-and-credit] | [Repo][contributor-and-credit2] | | Gail Peretsman-Clement |
 | Authoring LaTeX paper with BibTeX bibliography |[Site][latex-bibtex-authoring] | [Repo][latex-bibtex-authoring2] | | Gail Peretsman-Clement |
 | Open licensing with Creative Commons | [Site][licensing-cc] | [Repo][licensing-cc2] | | Gail Peretsman-Clement |

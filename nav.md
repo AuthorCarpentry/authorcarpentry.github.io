@@ -5,5 +5,6 @@
 + [Lessons](/lessons.html)
 + [Suggest a Lesson](https://github.com/AuthorCarpentry/planning/issues)
 + [For Instructors](/for-instructors.html)
++ [Mailing List](https://groups.google.com/forum/#!forum/authorcarpentry/join)
 + [@AuthorCarpentry] (https://twitter.com/authorcarpentry)
 

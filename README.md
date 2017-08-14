@@ -50,7 +50,7 @@ All participants should agree to abide by the [Software Carpentry Code of Conduc
 All the lessons are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). **Exceptions: embeds to and from external sources, and direct quotations from speakers.**
 
 
-<script tye="appplicationeld+json">
+<script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "CreativeWork",

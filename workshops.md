@@ -14,9 +14,6 @@ us](mailto:authorcarpentry@library.caltech.edu) for more information
 | --- | --- | --- | --- | --- | 
 | CODATA-RDA Research Data Science Summer School | Intl Centre for Theoretical Physics, Trieste, Italy | August 1-12, 2016 | [Link](http://indico.ictp.it/event/7658/other-view?view=ictptimetable)| Clement |
 | Thirtieth Conference on Artificial Intelligence Tutorial | San Francisco, CA | February 4, 2017 | [Link] (http://www.aaai.org/Conferences/AAAI/2017/aaai17tutorials.php#SA1) | Garijo, Gil, Clement |
-| Author Carpentry Workshop for Caltech faculty, students, and researchers |
-Caltech Library, Multimedia Conference Rm | June 12, 2017 | [Link] (http://libcal.caltech.edu/event/3347086) | Karcher |
-| CODATA-RDA Research Data Science Summer School | Intl Centre for Theoretical
-Physics, Trieste, Italy | July 9-21, 2017 | [Link] (http://indico.ictp.it/event/7974/other-view?view=ictptimetable) | Clement |
-| Force11 Scholarly Communication Institute | Univ California, San Diego, CA |
-July 31 - August 4, 2017 | [Link] (http://www.force11.org/node/7786/#wt3) | Morrell, Clement, Karcher (lesson developer)
+| Author Carpentry Workshop for Caltech faculty, students, and researchers | Caltech Library, Multimedia Conference Rm | June 12, 2017 | [Link] (http://libcal.caltech.edu/event/3347086) | Karcher |
+| CODATA-RDA Research Data Science Summer School | Intl Centre for Theoretical Physics, Trieste, Italy | July 9-21, 2017 | [Link] (http://indico.ictp.it/event/7974/other-view?view=ictptimetable) | Clement |
+| Force11 Scholarly Communication Institute | Univ California, San Diego, CA | July 31 - August 4, 2017 | [Link] (http://www.force11.org/node/7786/#wt3) | Morrell, Clement, Karcher (lesson developer)

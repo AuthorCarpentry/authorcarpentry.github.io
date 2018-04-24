@@ -1,8 +1,7 @@
 # Author Carpentry                
 https://doi.org/10.7907/Z96H4FFZ
 
-Welcome to the web home for Author Carpentry , a researcher-to-researcher training and outreach program in open authoring and publishing, scholarly identity and reputation, and research impact. Inspired by the [Modern Scientific Authoring]
-(http://swcarpentry.github.io/modern-scientific-authoring/) lesson proposed by Software Carpentry founder Greg Wilson, AuthorCarpentry builds on this vision to complement and extend the research pipelines covered in Software and Data Carpentry. AuthorCarpentry picks up with  the "last mile" of the research process: writing, reporting, review, dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).
+Welcome to the web home for Author Carpentry , a researcher-to-researcher training and outreach program in open authoring and publishing, scholarly identity and reputation, and research impact. Inspired by the [Modern Scientific Authoring](https://swcarpentry.github.io/modern-scientific-authoring/) lesson proposed by Software Carpentry founder Greg Wilson, AuthorCarpentry builds on this vision to complement and extend the research pipelines covered in Software and Data Carpentry. AuthorCarpentry picks up with  the "last mile" of the research process: writing, reporting, review, dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).
 
 
 <img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
@@ -13,7 +12,7 @@ Welcome to the web home for Author Carpentry , a researcher-to-researcher traini
 * Scientific writing in useful, powerful, and open mark-up languages such as LaTeX, XML, and Markdown 
 * Formulating and managing citation data, publication lists, and bibliographies in open formats such as BiBTeX, JSON, XML and using open source reference management tools such as JabRef and Zotero
 * Transforming metadata documenting research outputs into open plain text formats for easy reuse in research information systems in support of funder compliance mandates and institutional reporting
-* Establishing scholarly identity with ORCiD and managing reputation with ORCiD-enabled scholarly sharing platforms such as [ScienceOpen](http://www.scienceopen.com)
+* Establishing scholarly identity with ORCiD and managing reputation with ORCiD-enabled scholarly sharing platforms such as [ScienceOpen](https://www.scienceopen.com)
 * Crediting authorship, contributorship, and copyright ownership in collaborative research projects
 * Demonstrating best practices in attribution, acknowledgement, and citation, particularly for non-traditional research outputs (software, datasets)
 * Identifying reputable Open Access publications
@@ -25,7 +24,7 @@ Welcome to the web home for Author Carpentry , a researcher-to-researcher traini
 
 We are an open community of scientists, scholars, and librarians with collaborators and participants from around the world. Current Author Carpentry developers and trainers are certified Instructors for Data/Software Carpentry and commit to the instructional approaches, assessment methods, and lesson formatting of the Carpentry community.
 
-Caltech Library serves as the maintenance organization for lessons and planning documentation and maintains all content on the [GitHub site] (https://github.com/AuthorCarpentry). 
+Caltech Library serves as the maintenance organization for lessons and planning documentation and maintains all content on the [GitHub site](https://github.com/AuthorCarpentry). 
 
 
 ## Why would Librarians be involved in Author Carpentry?
@@ -39,15 +38,15 @@ The Caltech Library is recasting its instructional program using a 'Carpentry' a
 AuthorCarpentry is an Open Project and we enthusiastically welcome
 contributions of librarian and other research professionals. Anyone with an
 interest in the material is welcome to take part. The project is being
-co-ordinated by [Gail Clement](gclement@library.caltech.edu) and [Tom Morrell](tmorrell@caltech.edu) at Caltech
+co-ordinated by [Gail Clement](mailto:gclement@library.caltech.edu) and [Tom Morrell](mailto:tmorrell@caltech.edu) at Caltech
 Library. Please get in touch with us at
-[authorcarpentry@library.caltech.edu](authorcarpentry@library.caltech.edu)  or register your ideas on the Issues section.
+[mailto:authorcarpentry@library.caltech.edu](authorcarpentry@library.caltech.edu)  or register your ideas on the Issues section.
 
 ## Code of Conduct
-All participants should agree to abide by the [Software Carpentry Code of Conduct](http://software-carpentry.org/conduct/).
+All participants should agree to abide by the [Software Carpentry Code of Conduct](https://software-carpentry.org/conduct/).
 
 ## License
-All the lessons are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). **Exceptions: embeds to and from external sources, and direct quotations from speakers.**
+All the lessons are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). **Exceptions: embeds to and from external sources, and direct quotations from speakers.**
 
 
 <script type="application/ld+json">

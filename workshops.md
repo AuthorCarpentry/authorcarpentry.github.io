@@ -1,12 +1,12 @@
 # About our workshops
 
-Author Carpentry can host workshops!  [Contact
-us](mailto:authorcarpentry@library.caltech.edu) for more information
+Author Carpentry can host workshops!  [Contact us](mailto:authorcarpentry@library.caltech.edu) for more information
 
 # Upcoming workshops
 
 | Workshop Name | Location | Dates | Registration Link | Instructor(s) |
 | ---- | ---- | --- | --- | --- |
+| Force11 Scholarly Communication Institute | Univ California, San Diego, CA | July 30 - August 3, 2018 | [Link](https://authorcarpentry.github.io/FSCI-2018/) | Morrell, Clement
 
 # Past workshops
 

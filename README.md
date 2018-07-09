@@ -1,7 +1,7 @@
 # Author Carpentry                
 https://doi.org/10.7907/Z96H4FFZ
 
-Welcome to the web home for Author Carpentry , a researcher-to-researcher training and outreach program in open authoring and publishing, scholarly identity and reputation, and research impact. Inspired by the [Modern Scientific Authoring](https://swcarpentry.github.io/modern-scientific-authoring/) lesson proposed by Software Carpentry founder Greg Wilson, AuthorCarpentry builds on this vision to complement and extend the research pipelines covered in Software and Data Carpentry. AuthorCarpentry picks up with  the "last mile" of the research process: writing, reporting, review, dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).
+Welcome to the web home for Author Carpentry, a researcher-to-researcher training and outreach program in open authoring and publishing, scholarly identity and reputation, and research impact. Inspired by the [Modern Scientific Authoring](https://swcarpentry.github.io/modern-scientific-authoring/) lesson proposed by Software Carpentry founder Greg Wilson, AuthorCarpentry builds on this vision to complement and extend the research pipelines covered in Software and Data Carpentry. AuthorCarpentry picks up with  the "last mile" of the research process: writing, reporting, review, dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).
 
 
 <img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
@@ -39,8 +39,7 @@ AuthorCarpentry is an Open Project and we enthusiastically welcome
 contributions of librarian and other research professionals. Anyone with an
 interest in the material is welcome to take part. The project is being
 co-ordinated by [Gail Clement](mailto:gclement@library.caltech.edu) and [Tom Morrell](mailto:tmorrell@caltech.edu) at Caltech
-Library. Please get in touch with us at
-[mailto:authorcarpentry@library.caltech.edu](authorcarpentry@library.caltech.edu)  or register your ideas on the Issues section.
+Library. Please get in touch with us at [authorcarpentry@library.caltech.edu](mailto:authorcarpentry@library.caltech.edu)  or register your ideas on the Issues section.
 
 ## Code of Conduct
 All participants should agree to abide by the [Software Carpentry Code of Conduct](https://software-carpentry.org/conduct/).

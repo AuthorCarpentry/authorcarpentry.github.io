@@ -1,14 +1,20 @@
 
 # Author Carpentry Lessons and Learning Objectives
 
-### Lessons in Active Development as of 13 June 2017 
+### Active Lessons as of 27 April 2018 
 ##### See [Suggest a Lesson](https://github.com/AuthorCarpentry/planning/issues) for future lesson plans
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
 | ------ |:---: | :--------: | :--------------: | ------------- |
 | Persistent access for research outputs with Digital Object Identifiers | [Site][dois-citation-data] | [Repo][dois-citation-data2] | | Gail Peretsman-Clement, Tom Morrell |
 | Establishing Scholarly Identity with Online Research Contributor Identifiers (OrCiDs) | [Site][orcid-profile] | [Repo][orcid-profile2] | | Gail Peretsman-Clement, Tom Morrell |
-| Using Markdown and github to author for web and print | [Site][markdown-github-webpages] | [Repo][markdown-github-webpages2] | | Sebastian Karcher |
+
+## Lessons in Development
+
+| Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
+| ------ |:---: | :--------: | :--------------: | ------------- |
+| Sustainable Authorship with Markdown and Pandoc | [Site][markdown-pandoc] | [Repo][markdown-pandoc2] | | Sebastian Karcher, Gail Peretsman-Clement, Tom Morrell  |
+| Web publishing with GitHub | [Site][markdown-github-webpages] | [Repo][markdown-github-webpages2] | | Sebastian Karcher, Gail Peretsman-Clement, Tom Morrell |
 
 ### Future Lesson Roadmap
 
@@ -20,7 +26,6 @@
 | Open licensing with Creative Commons | [Site][licensing-cc] | [Repo][licensing-cc2] | | Gail Peretsman-Clement |
 | Identifying reputable Open Access Journals | [Site][reputable-oa] | [Repo][reputable-oa2] | | Gail Peretsman-Clement |
 | Transforming Textual Data for Reuse and Republication with XML and XSL | [Site][transforming-xml] | [Repo][transforming-xml2] | | ? |
-| Sustainable Authorship with Markdown and Pandoc | [Site][markdown-pandoc] | [Repo][markdown-pandoc2] | | Sebastian Karcher |
 | Creating executable documents using RStudio and Rmarkdown | [Site][executable-documents-rstudio] | [Repo][executable-documents-rstudio2] | | Sebastian Karcher |
 | Using Zotero, Wordpress, and ZotPress to generate active bibliographies on the web | [Site][zotero-wordpress] | [Repo][zotero-wordpress2] | | Sebastian Karcher |
 | Reference management and text-based writing | [Site][reference-management] | [Repo][reference-management2] | | Sebastian Karcher |

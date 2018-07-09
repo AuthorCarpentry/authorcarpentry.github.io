@@ -6,7 +6,8 @@ Author Carpentry can host workshops!  [Contact us](mailto:authorcarpentry@librar
 
 | Workshop Name | Location | Dates | Registration Link | Instructor(s) |
 | ---- | ---- | --- | --- | --- |
-| Force11 Scholarly Communication Institute | Univ California, San Diego, CA | July 30 - August 3, 2018 | [Link](https://authorcarpentry.github.io/FSCI-2018/) | Morrell, Clement
+<<<<<<< HEAD
+| Force11 Scholarly Communication Institute | Univ California, San Diego, CA | July 30 - August 3, 2018 | [Course](https://www.force11.org/fsci/2018/course-abstracts#AM2) [Content](https://authorcarpentry.github.io/FSCI-2018/) | Morrell, Clement
 
 # Past workshops
 

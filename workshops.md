@@ -6,7 +6,7 @@ Author Carpentry can host workshops!  [Contact us](mailto:authorcarpentry@librar
 
 | Workshop Name | Location | Dates | Registration Link | Instructor(s) |
 | ---- | ---- | --- | --- | --- |
-| CODATA-RDA Research Data Science Summer School | Intl Centre for Theoretical Physics, Trieste, Italy | August 5-9, 2018 |[Content](https://authorcarpentry.github.io/DataTrieste-2018/)| Clement |
+| CODATA-RDA Research Data Science Summer School | Intl Centre for Theoretical Physics, Trieste, Italy | August 5-9, 2018 |[Content](https://authorcarpentry.github.io/DT2018/)| Clement |
 
 # Past workshops
 

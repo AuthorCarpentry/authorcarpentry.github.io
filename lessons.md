@@ -58,4 +58,4 @@
 [reference-management]: https://authorcarpentry.github.io/reference-management
 [reference-management2]:https://github.com/authorcarpentry/reference-management
 [scraping-bibliographies]:https://authorcarpentry.github.io/scraping-bibliographies
-[scraping-bibliographies]:https://github.com/authorcarpentry/scraping-bibliographies
+[scraping-bibliographies2]:https://github.com/authorcarpentry/scraping-bibliographies

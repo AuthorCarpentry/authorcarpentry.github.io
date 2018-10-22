@@ -13,14 +13,14 @@
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
 | ------ |:---: | :--------: | :--------------: | ------------- |
-| Sustainable Authorship with Markdown and Pandoc | [Site][markdown-pandoc] | [Repo][markdown-pandoc2] | | Sebastian Karcher, Gail Peretsman-Clement, Tom Morrell  |
-| Web publishing with GitHub | [Site][markdown-github-webpages] | [Repo][markdown-github-webpages2] | | Sebastian Karcher, Gail Peretsman-Clement, Tom Morrell |
 | Creating reproducible reports using RStudio and Rmarkdown | [Site][executable-documents-rstudio] | [Repo][executable-documents-rstudio2] | | Sebastian Karcher, Gail Peretsman-Clement, Tom Morrell |
+| Web publishing with GitHub and Jekyll| [Site][markdown-github-webpages] | [Repo][markdown-github-webpages2] | | Sebastian Karcher, Tom Morrell |
 
 ### Future Lesson Roadmap
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
 | ------ |:---: | :--------: | :--------------: | ------------- |
+| Sustainable Authorship with Markdown and Pandoc | [Site][markdown-pandoc] | [Repo][markdown-pandoc2] | | Sebastian Karcher, Gail Peretsman-Clement, Tom Morrell  |
 | Enhancing scholarly reputation with impact metrics| [Site][orcid-and-impact] | [Repo][orcid-and-impact2] | | Gail Peretsman-Clement |
 | Fair Attribution for Contributorship with Project Credit taxonomy |[Site][contributor-and-credit] | [Repo][contributor-and-credit2] | | Gail Peretsman-Clement |
 | Authoring LaTeX paper with BibTeX bibliography |[Site][latex-bibtex-authoring] | [Repo][latex-bibtex-authoring2] | | Gail Peretsman-Clement |

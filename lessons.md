@@ -22,7 +22,8 @@
 | ------ |:---: | :--------: | :--------------: | ------------- |
 | Sustainable Authorship with Markdown and Pandoc | [Site][markdown-pandoc] | [Repo][markdown-pandoc2] | | Sebastian Karcher, Gail Peretsman-Clement, Tom Morrell  |
 | Enhancing scholarly reputation with impact metrics| [Site][orcid-and-impact] | [Repo][orcid-and-impact2] | | Gail Peretsman-Clement |
-| Fair Attribution for Contributorship with Project Credit taxonomy |[Site][contributor-and-credit] | [Repo][contributor-and-credit2] | | Gail Peretsman-Clement |
+| Web scraping for Fair Attribution for Contributorship |[Site][contributor-and-credit] | [Repo][contributor-and-credit2] | | Sebastian Karcher |
+| Web scraping for bibliographies |[Site][scraping-bibliographies] | [Repo][scraping-bibliographies2] | |  Sebastian Karcher |
 | Authoring LaTeX paper with BibTeX bibliography |[Site][latex-bibtex-authoring] | [Repo][latex-bibtex-authoring2] | | Gail Peretsman-Clement |
 | Open licensing with Creative Commons | [Site][licensing-cc] | [Repo][licensing-cc2] | | Gail Peretsman-Clement |
 | Identifying reputable Open Access Journals | [Site][reputable-oa] | [Repo][reputable-oa2] | | Gail Peretsman-Clement |
@@ -55,4 +56,6 @@
 [zotero-wordpress]: https://authorcarpentry.github.io/zotero-wordpress
 [zotero-wordpress2]: https://github.com/authorcarpentry/zotero-wordpress
 [reference-management]: https://authorcarpentry.github.io/reference-management
-[reference-management2]: https://github.com/authorcarpentry/reference-management
+[reference-management2]:https://github.com/authorcarpentry/reference-management
+[scraping-bibliographies]:https://authorcarpentry.github.io/scraping-bibliographies
+[scraping-bibliographies]:https://github.com/authorcarpentry/scraping-bibliographies

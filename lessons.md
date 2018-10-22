@@ -9,7 +9,7 @@
 | Persistent access for research outputs with Digital Object Identifiers | [Site][dois-citation-data] | [Repo][dois-citation-data2] | | Gail Peretsman-Clement, Tom Morrell |
 | Establishing Scholarly Identity with Online Research Contributor Identifiers (OrCiDs) | [Site][orcid-profile] | [Repo][orcid-profile2] | | Gail Peretsman-Clement, Tom Morrell |
 
-## Lessons in Development
+## Lessons in Development and Testing
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
 | ------ |:---: | :--------: | :--------------: | ------------- |

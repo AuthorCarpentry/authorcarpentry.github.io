@@ -6,7 +6,8 @@ Author Carpentry can host workshops!  [Contact us](mailto:authorcarpentry@librar
 
 | Workshop Name | Location | Dates | Registration Link | Instructor(s) |
 | ---- | ---- | --- | --- | --- |
-| Force11 Scholarly Communication Institute | Univ California, Los Angeles, CA | August 5 - August 9, 2019 | [Link](https://www.force11.org/fsci/2019/fsci-2019-course-abstracts#AM2)  | Morrell, Wrublewski |
+| Force11 Scholarly Communication Institute | Univ California, Los Angeles, CA | August 5 - August 9, 2019 | [Link](https://www.force11.org/fsci/2019/fsci-2019-course-abstracts#AM2) [Content](https://authorcarpentry.github.io/FSCI-2019/) | Morrell, Wrublewski |
+| CODATA-RDA Research Data Science Summer School | Intl Centre for Theoretical Physics, Trieste, Italy | August 5-9, 2019 | [Link](http://www.codata.org/working-groups/research-data-science-summer-schools/datatrieste-2019)  | Clement |
 
 # Past workshops
 

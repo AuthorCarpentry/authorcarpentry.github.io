@@ -9,44 +9,11 @@
 <a href="http://authorcarpentry.github.io"><img src="img/AClogo.jpg" alt="Author Carpentry logo"></a>
 </header>
 <nav>
-<ul>
-<li><a href="/">Author Carpentry</a></li>
-<li><a href="/workshops.html">Workshops</a></li>
-<li><a href="/get-involved.html">Get Involved</a></li>
-<li><a href="/lessons.html">Lessons</a></li>
-<li><a href="https://github.com/AuthorCarpentry/planning/issues">Suggest a Lesson</a></li>
-<li><a href="/for-instructors.html">For Instructors</a></li>
-<li><a href="https://groups.google.com/forum/#!forum/authorcarpentry/join">Mailing List</a></li>
-<li><a href="https://twitter.com/authorcarpentry">@AuthorCarpentry</a></li>
-</ul>
-
+{{ .nav }}
 </nav>
 
 <section>
-<h1>Description of files and organization</h1>
-
-<ul>
-<li>*.tmpl are <a href="https://caltechlibrary.github.io/mkpage">mkpage</a> templates for render markdown content into specific HTML pages</li>
-<li>*.bash are scripts for managing website</li>
-<li>*.md are our markdown files</li>
-<li>css/* holds our website css files (lesssons or subfolder may have their own css associated with them)</li>
-<li>assets/* holds any media assets like image files, logos and such used in the website</li>
-<li>js/* holds any sitewide JavaScripts files</li>
-</ul>
-
-<h2>special handling</h2>
-
-<p>The following files have a special handline</p>
-
-<ul>
-<li><em>README.md</em> becomes <em>index.html</em> in the root directory of the repository
-
-<ul>
-<li>subdirectories require an explicit <em>index.md</em></li>
-</ul></li>
-<li><em>nav.md</em> never renders its own html file as it is included by the mkpage template</li>
-</ul>
-
+{{ .content }}
 </section>
 
 <footer>

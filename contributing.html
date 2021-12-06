@@ -9,102 +9,11 @@
 <a href="http://authorcarpentry.github.io"><img src="img/AClogo.jpg" alt="Author Carpentry logo"></a>
 </header>
 <nav>
-<ul>
-<li><a href="/">Author Carpentry</a></li>
-<li><a href="/workshops.html">Workshops</a></li>
-<li><a href="/get-involved.html">Get Involved</a></li>
-<li><a href="/lessons.html">Lessons</a></li>
-<li><a href="https://github.com/AuthorCarpentry/planning/issues">Suggest a Lesson</a></li>
-<li><a href="/for-instructors.html">For Instructors</a></li>
-<li><a href="https://groups.google.com/forum/#!forum/authorcarpentry/join">Mailing List</a></li>
-<li><a href="https://twitter.com/authorcarpentry">@AuthorCarpentry</a></li>
-</ul>
-
+{{ .nav }}
 </nav>
 
 <section>
-<h1>Contributing</h1>
-
-<p><a href="http://authorcarpentry.github.io">AuthorCarpentry</a> is an open source project,
-and we welcome contributions of all kinds:
-new lessons,
-fixes to existing material,
-bug reports,
-and reviews of proposed changes are all welcome.</p>
-
-<h2>Contributor Agreement</h2>
-
-<p>By contributing,
-you agree that we may redistribute your work under
-<a href="http://authorcarpentry.github.io/license">our license</a>.
-In exchange,
-we will address your issues and/or assess your change proposal as promptly as
-we can,
-and help you become a member of our community.
-Everyone involved in <a href="http://authorcarpentry.github.io">Author Carpentry</a>
-agrees to abide by our <a href="http://authorcarpentry.github.io/about/code-of-conduct">code of
-conduct</a>.</p>
-
-<h2>Working With GitHub</h2>
-
-<ol>
-<li><p>Fork the <code>authorcarpentry/lesson-name</code> repository on GitHub.</p></li>
-
-<li><p>The default branch in our lessons is <code>gh-pages</code>. Create a
-new branch for your changes.<br>
-Give your branch a meaningful name,
-such as <code>fixing-typos-in-shell-lesson</code>
-or <code>adding-tutorial-on-visualization</code>.</p></li>
-
-<li><p>Clone this repository and branch to work with it on your computer.<br>
-git clone the repository with -b &lsquo;branch name&rsquo;</p></li>
-
-<li><p>Make your changes, render, commit them, and push them to your repository on GitHub.</p></li>
-
-<li><p>Send a pull request to the <code>gh-pages</code> branch of the main datacarpentry
-repository at <a href="http://github.com/authorcarpentry/lesson-name">http://github.com/authorcarpentry/lesson-name</a>. This can
-be done through the github web interface.</p></li>
-</ol>
-
-<p>If it is easier for you to send them to us some other way,
-please mail us at
-<a href="mailto:authorcarpentry@library.caltech.edu">authorcarpentry@library.caltech.edu</a>.
-Given a choice between you creating content or wrestling with Git,
-we&rsquo;d rather have you doing the former.</p>
-
-<h2>Locations and Formats</h2>
-
-<p>Every lesson has a repository of its own, while individual topics are files
-in that directory.  For example, the <code>shell-ecology</code> directory holding our
-introduction to the shell for ecology contains the files <code>00-intro.md</code>,
-<code>01-filedir.md</code> and so on.  (We use two digits followed by a one-word topic
-key to ensure files
-appear in the right order when listed.)</p>
-
-<p>All lesson content is written in markdown.<br>
-We use <a href="https://github.com/caltechlibrary/mkpage">mkpage</a> to render lesson
-content, which should be done on your local machine.  You render content by
-typing &lsquo;./mk-website.bash&rsquo; once you&rsquo;re finishing making edits.</p>
-
-<p>You can use ws to view the content locally by typing &lsquo;ws&rsquo; and pointing your
-web browser to <a href="http://localhost:8000">http://localhost:8000</a></p>
-
-<h2>Formatting of the material</h2>
-
-<p>To ensure a consistent formatting of the lessons, we recommend the following
-guidelines:</p>
-
-<ul>
-<li>No trailing white space</li>
-<li>Wrap lines at 80 characters (unless it breaks URLs)</li>
-</ul>
-
-<h2>FAQ</h2>
-
-<p><em>Where can I get help?</em></p>
-
-<p>Mail us at <a href="mailto:authorcarpentry@library.caltech.edu">authorcarpentry@library.caltech.edu</a></p>
-
+{{ .content }}
 </section>
 
 <footer>

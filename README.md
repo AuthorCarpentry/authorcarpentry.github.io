@@ -38,8 +38,8 @@ The Caltech Library is recasting its instructional program using a 'Carpentry' a
 AuthorCarpentry is an Open Project and we enthusiastically welcome
 contributions of librarian and other research professionals. Anyone with an
 interest in the material is welcome to take part. The project is being
-co-ordinated by [Tom Morrell](mailto:tmorrell@caltech.edu) at Caltech
-Library. Please get in touch  or register your ideas on the Issues section.
+co-ordinated by [Gail Clement](mailto:gclement@library.caltech.edu) and [Tom Morrell](mailto:tmorrell@caltech.edu) at Caltech
+Library. Please get in touch with us at [authorcarpentry@library.caltech.edu](mailto:authorcarpentry@library.caltech.edu)  or register your ideas on the Issues section.
 
 ## Code of Conduct
 All participants should agree to abide by the [Software Carpentry Code of Conduct](https://software-carpentry.org/conduct/).

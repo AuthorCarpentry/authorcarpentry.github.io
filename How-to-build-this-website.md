@@ -11,7 +11,7 @@ This is includes content in the [CODATA-RDA](CODATA-RDA/) folder.
 
 This website is built using several command line tools developed at Caltech. They are
 
-+ [mkpage](https://caltechlibrary.github.io/mkpage) - renders the website from Markdown files using template page.tmpl
++ [mkpage](https://caltechlibrary.github.io/mkpage) version 0.0.32 or earlier - renders the website from Markdown files using template page.tmpl
     + [installation instructions](https://caltechlibrary.github.io/mkpage/install.html)
 + [ws](https://caltechlibrary.github.io/ws) - (optional) is a static web server you can use to view your site while you're writing it
     + [installation instructions](https://caltechlibrary.github.io/ws/install.html)

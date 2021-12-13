@@ -1,19 +1,19 @@
 
 # Author Carpentry Lessons and Learning Objectives
 
-### Active Lessons as of 27 April 2018 
+### Active Lessons as of December 2021 
 ##### See [Suggest a Lesson](https://github.com/AuthorCarpentry/planning/issues) for future lesson plans
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
 | ------ |:---: | :--------: | :--------------: | ------------- |
 | Persistent access for research outputs with Digital Object Identifiers | [Site][dois-citation-data] | [Repo][dois-citation-data2] | | Gail Peretsman-Clement, Tom Morrell |
-| Establishing Scholarly Identity with Online Research Contributor Identifiers (OrCiDs) | [Site][orcid-profile] | [Repo][orcid-profile2] | | Gail Peretsman-Clement, Tom Morrell |
+| Establishing Scholarly Identity with Online Research Contributor Identifiers (ORCID) | [Site][orcid-profile] | [Repo][orcid-profile2] | | Gail Peretsman-Clement, Tom Morrell |
+| Creating reproducible reports using RStudio and Rmarkdown | [Site][executable-documents-rstudio] | [Repo][executable-documents-rstudio2] | | Gail Peretsman-Clement, Tom Morrell |
 
 ## Lessons in Development and Testing
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
 | ------ |:---: | :--------: | :--------------: | ------------- |
-| Creating reproducible reports using RStudio and Rmarkdown | [Site][executable-documents-rstudio] | [Repo][executable-documents-rstudio2] | | Sebastian Karcher, Gail Peretsman-Clement, Tom Morrell |
 | Web publishing with GitHub and Jekyll| [Site][markdown-github-webpages] | [Repo][markdown-github-webpages2] | | Sebastian Karcher, Tom Morrell |
 
 ### Future Lesson Roadmap

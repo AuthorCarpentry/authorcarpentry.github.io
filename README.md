@@ -6,6 +6,9 @@ Welcome to the web home for Author Carpentry, a researcher-to-researcher trainin
 
 <img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
 
+## Upcoming Events
+* "The Carpentries & Authors Carpentry" December 15, 2021 3-4 PM Pacific [IFLA Science & Technology Libraries Section Webinar](https://t.co/rRhfxdzjn2) by Tom Morrell
+* [Author Carpentry Open Planning Meeting](https://libcal.caltech.edu/event/8657448) January 10, 2022 10-11 AM Pacific
 
 ## Topics covered in Author Carpentry 
 

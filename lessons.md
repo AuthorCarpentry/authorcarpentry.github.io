@@ -5,7 +5,7 @@
 ##### See [Suggest a Lesson](https://github.com/AuthorCarpentry/planning/issues) for future lesson plans
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
-| ------ |:---: | :--------: | :--------------: | ------------- |
+| ---------------- |:---: | :----: | :--: | ------------- |
 | Persistent access for research outputs with Digital Object Identifiers | [Site][dois-citation-data] | [Repo][dois-citation-data2] | | Gail Peretsman-Clement, Tom Morrell |
 | Establishing Scholarly Identity with Online Research Contributor Identifiers (ORCID) | [Site][orcid-profile] | [Repo][orcid-profile2] | | Gail Peretsman-Clement, Tom Morrell |
 | Creating reproducible reports using RStudio and Rmarkdown | [Site][executable-documents-rstudio] | [Repo][executable-documents-rstudio2] | | Gail Peretsman-Clement, Tom Morrell |
@@ -13,13 +13,13 @@
 ## Lessons in Development and Testing
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
-| ------ |:---: | :--------: | :--------------: | ------------- |
+| ---------------- |:---: | :----: | :--: | ------------- |
 | Web publishing with GitHub and Jekyll| [Site][markdown-github-webpages] | [Repo][markdown-github-webpages2] | | Sebastian Karcher, Tom Morrell |
 
 ### Future Lesson Roadmap
 
 | Lesson | Site | Repository | Instructor Guide | Maintainer(s) |
-| ------ |:---: | :--------: | :--------------: | ------------- |
+| ---------------- |:---: | :----: | :--: | ------------- |
 | Sustainable Authorship with Markdown and Pandoc | [Site][markdown-pandoc] | [Repo][markdown-pandoc2] | | Sebastian Karcher, Gail Peretsman-Clement, Tom Morrell  |
 | Enhancing scholarly reputation with impact metrics| [Site][orcid-and-impact] | [Repo][orcid-and-impact2] | | Gail Peretsman-Clement |
 | Web scraping for Fair Attribution for Contributorship |[Site][contributor-and-credit] | [Repo][contributor-and-credit2] | | Sebastian Karcher |

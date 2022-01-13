@@ -1,7 +1,15 @@
 # Author Carpentry                
 https://doi.org/10.7907/Z96H4FFZ
 
-Welcome to the web home for Author Carpentry, a researcher-to-researcher training and outreach program in open authoring and publishing, scholarly identity and reputation, and research impact. Inspired by the [Modern Scientific Authoring](https://swcarpentry.github.io/modern-scientific-authoring/) lesson proposed by Software Carpentry founder Greg Wilson, AuthorCarpentry builds on this vision to complement and extend the research pipelines covered in Software and Data Carpentry. AuthorCarpentry picks up with  the "last mile" of the research process: writing, reporting, review, dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).
+Author Carpentry is a researcher-to-researcher training and outreach program in
+open authoring and publishing, scholarly identity and reputation, and research
+impact. Inspired by the [Modern Scientific
+Authoring](https://swcarpentry.github.io/modern-scientific-authoring/) lesson
+proposed by Software Carpentry founder Greg Wilson, AuthorCarpentry was
+envisioned by founder Gail Peretsman-Clement to complement and extend the 
+research pipelines covered in Software and Data Carpentry. AuthorCarpentry 
+picks up the "last mile" of the research process: writing, reporting, review, 
+dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).
 
 
 <img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
@@ -12,7 +20,7 @@ Welcome to the web home for Author Carpentry, a researcher-to-researcher trainin
 
 ## Topics covered in Author Carpentry 
 
-* Scientific writing in useful, powerful, and open mark-up languages such as LaTeX, XML, and Markdown 
+* Scientific writing in useful, powerful, and open mark-up languages such as LaTeX and Markdown 
 * Formulating and managing citation data, publication lists, and bibliographies in open formats such as BiBTeX, JSON, XML and using open source reference management tools such as JabRef and Zotero
 * Transforming metadata documenting research outputs into open plain text formats for easy reuse in research information systems in support of funder compliance mandates and institutional reporting
 * Establishing scholarly identity with ORCiD and managing reputation with ORCiD-enabled scholarly sharing platforms such as [ScienceOpen](https://www.scienceopen.com)

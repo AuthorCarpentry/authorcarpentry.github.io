@@ -5,9 +5,9 @@ Author Carpentry is a researcher-to-researcher training and outreach program in
 open authoring and publishing, scholarly identity and reputation, and research
 impact. Inspired by the [Modern Scientific
 Authoring](https://swcarpentry.github.io/modern-scientific-authoring/) lesson
-proposed by Software Carpentry founder Greg Wilson, AuthorCarpentry was
+proposed by Software Carpentry founder Greg Wilson, Author Carpentry was
 envisioned by founder Gail Peretsman-Clement to complement and extend the 
-research pipelines covered in Software and Data Carpentry. AuthorCarpentry 
+research pipelines covered in Software and Data Carpentry. Author Carpentry 
 picks up the "last mile" of the research process: writing, reporting, review, 
 dissemination and licensing, impact measurement, and establishing author identity and reputation (as shown in the illustration below).
 
@@ -15,8 +15,7 @@ dissemination and licensing, impact measurement, and establishing author identit
 <img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
 
 ## Upcoming Events
-* "The Carpentries & Authors Carpentry" December 15, 2021 3-4 PM Pacific [IFLA Science & Technology Libraries Section Webinar](https://t.co/rRhfxdzjn2) by Tom Morrell
-* [Author Carpentry Open Planning Meeting](https://libcal.caltech.edu/event/8657448) January 10, 2022 10-11 AM Pacific
+* [Author Carpentry Open Planning Meeting](https://libcal.caltech.edu/event/8792620) April 4, 2022 10-11 AM Pacific
 
 ## Topics covered in Author Carpentry 
 
@@ -31,7 +30,7 @@ dissemination and licensing, impact measurement, and establishing author identit
 * Investigating and managing copyright status of a work, and evaluating conditions for Fair Use
 * Open sharing of research using Creative Commons licenses, waivers, and public domain marks
 
-## Who is reponsible for AuthorCarpentry?
+## Who is reponsible for Author Carpentry?
 
 We are an open community of scientists, scholars, and librarians with collaborators and participants from around the world. Current Author Carpentry developers and trainers are certified Instructors for Data/Software Carpentry and commit to the instructional approaches, assessment methods, and lesson formatting of the Carpentry community.
 
@@ -46,7 +45,7 @@ The Caltech Library is recasting its instructional program using a 'Carpentry' a
 
 
 ## Get Involved
-AuthorCarpentry is an Open Project and we enthusiastically welcome
+Author Carpentry is an Open Project and we enthusiastically welcome
 contributions of librarian and other research professionals. Anyone with an
 interest in the material is welcome to take part. The project is being
 co-ordinated by [Tom Morrell](mailto:tmorrell@caltech.edu) at Caltech

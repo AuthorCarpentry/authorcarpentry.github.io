@@ -22,7 +22,6 @@
 | ---------------- |:---: | :----: | :--: | ------------- |
 | Sustainable Authorship with Markdown and Pandoc | [Site][markdown-pandoc] | [Repo][markdown-pandoc2] | | Sebastian Karcher, Tom Morrell  |
 | Enhancing scholarly reputation with impact metrics| [Site][orcid-and-impact] | [Repo][orcid-and-impact2] | | Allegra Swift, Annelise Sklar  |
-| Web scraping for Fair Attribution for Contributorship |[Site][contributor-and-credit] | [Repo][contributor-and-credit2] | | Sebastian Karcher |
 | Web scraping for bibliographies |[Site][scraping-bibliographies] | [Repo][scraping-bibliographies2] | |  Sebastian Karcher |
 | Authoring LaTeX paper with BibTeX bibliography |[Site][latex-bibtex-authoring] | [Repo][latex-bibtex-authoring2] | | Donna Wrublewski |
 | Open licensing with Creative Commons | [Site][licensing-cc] | [Repo][licensing-cc2] | | Lora Lennertz |
@@ -36,8 +35,6 @@
 [orcid-profile2]: https://github.com/authorcarpentry/orcid-profile
 [orcid-and-impact]: https://authorcarpentry.github.io/orcid-and-impact
 [orcid-and-impact2]: https://github.com/authorcarpentry/orcid-and-impact
-[contributor-and-credit]: https://authorcarpentry.github.io/contributor-and-credit
-[contributor-and-credit2]: https://github.com/authorcarpentry/contributor-and-credit
 [latex-bibtex-authoring]: https://authorcarpentry.github.io/latex-bibtex-authoring
 [latex-bibtex-authoring2]: https://github.com/authorcarpentry/latex-bibtex-authoring
 [licensing-cc]: https://authorcarpentry.github.io/licensing-cc

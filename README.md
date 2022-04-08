@@ -15,7 +15,7 @@ dissemination and licensing, impact measurement, and establishing author identit
 <img src="img/AC_Pipeline.png" alt="Author Carpentry Pipeline" width="666" height="444" border="1">
 
 ## Upcoming Events
-* [Author Carpentry Open Planning Meeting](https://libcal.caltech.edu/event/8792620) April 4, 2022 10-11 AM Pacific
+* [Author Carpentry Open Planning Meeting](https://libcal.caltech.edu/event/9097578) June 13, 2022 9-10 AM Pacific
 
 ## Topics covered in Author Carpentry 
 

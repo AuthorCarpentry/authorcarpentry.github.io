@@ -16,6 +16,10 @@ dissemination and licensing, impact measurement, and establishing author identit
 
 ## Upcoming Events
 * [Author Carpentry Open Planning Meeting](https://libcal.caltech.edu/event/9097578) June 13, 2022 9-10 AM Pacific
+* [Author Carpentry Open Access Workshop (IFLA STL)](https://libcal.caltech.edu/event/9294081) June 22, 2022 7-8:30 AM Pacific
+* [Author Carpentry Open Access Workshop (IFLA STL)](https://libcal.caltech.edu/event/9294123) June 22, 2022 3-4:30 PM Pacific
+* [Author Carpentry DOI Workshop (IFLA STL)](https://libcal.caltech.edu/event/9294171) June 29, 2022 6:30-7:30 AM Pacific
+* [Author Carpentry DOI Workshop (IFLA STL)](https://libcal.caltech.edu/event/9294231) June 29, 2022 3-4 PM Pacific
 
 ## Topics covered in Author Carpentry 
 

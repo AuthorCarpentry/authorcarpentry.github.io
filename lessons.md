@@ -28,6 +28,8 @@
 | Identifying reputable Open Access Journals | [Site][reputable-oa] | [Repo][reputable-oa2] | | Allegra Swift, Annelise Sklar |
 | Using Zotero, Wordpress, and ZotPress to generate active bibliographies on the web | [Site][zotero-wordpress] | [Repo][zotero-wordpress2] | | Sebastian Karcher, Rebecca Hedreen |
 | Reference management and text-based writing | [Site][reference-management] | [Repo][reference-management2] | | Sebastian Karcher |
+| CRediT Taxonomy | [Site][credit-taxonomy] | [Repo][credit-taxonomy2] | | David Lowe |
+
 
 [dois-citation-data]: https://authorcarpentry.github.io/dois-citation-data
 [dois-citation-data2]: https://github.com/authorcarpentry/dois-citation-data
@@ -53,3 +55,5 @@
 [reference-management2]:https://github.com/authorcarpentry/reference-management
 [scraping-bibliographies]:https://authorcarpentry.github.io/scraping-bibliographies
 [scraping-bibliographies2]:https://github.com/authorcarpentry/scraping-bibliographies
+[credit-taxonomy]:https://authorcarpentry.github.io/credit-taxonomy
+[credit-taxonomy2]:https://github.com/authorcarpentry/credit-taxonomy
